@@ -1,1 +1,4 @@
-There is some python project :3 
+# Python Projects 🚀
+This repository contains beginner-friendly Python projects.
+
+
